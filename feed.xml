@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vishnu Prasanth</title>
+    <description>&lt;p&gt;I'm a software engineer living in Kerala, India, and work for &lt;a href='https://ontash.net/'&gt;&lt;strong&gt;&lt;font color='red'&gt;Ontash&lt;/font&gt;&lt;/strong&gt;&lt;/a&gt; building backend services in Ruby.&lt;/p&gt; &lt;p&gt;This is my personal website, you can read my &lt;a href='#'&gt;&lt;strong&gt;&lt;font color='blue'&gt;Blog&lt;/font&gt;&lt;/strong&gt;&lt;/a&gt; to find most of the code and ideas I come up with during my extra-professional time.&lt;/p&gt;</description>
+    <link>http://vishnuprasanth.com/</link>
+    <atom:link href="http://vishnuprasanth.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 03 Jun 2019 08:16:47 +0530</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2019 08:16:47 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+  </channel>
+</rss>
